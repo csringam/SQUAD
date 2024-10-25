@@ -3,9 +3,7 @@
 ![image-2.png](./image-2.png)
 
 ## MATLAB Live Script
-The live script 'SQUADdemo.mlx' provides a more in depth explanation on the squad function and it's use compared to slerp.
-
-To run the live script, only the mlx file and the 'squad.m' files are necessary.
+Code to run this information is confidential
 
 ## Description
 Implementation of Squad algorithm for interpolating between series of quaternions. 
